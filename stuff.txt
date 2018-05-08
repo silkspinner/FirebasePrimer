@@ -1,0 +1,6 @@
+# Fire base prime Android App
+
+# URL for direbase db
+
+https://fir-primer-68e5e.firebaseio.com/
+ 
